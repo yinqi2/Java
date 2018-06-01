@@ -92,7 +92,7 @@ public class CSVFile {
 
 	
 	/**
-	 * Constructor
+	 * Constructor: 构造器
 	 * 
 	 * @param path
 	 * @param seperator
